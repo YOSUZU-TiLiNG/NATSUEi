@@ -1,5 +1,5 @@
 <!DOCTYPE html><html><head>
-      <title>index</title>
+      <title>Learn</title>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       
@@ -24,46 +24,48 @@
     
       <div class="crossnote markdown-preview  ">
       
-<h1 id="这是一个主页ᗜˬᗜ">这是一个主页ᗜˬᗜ </h1>
-<p><sub>作者：夏圃秋耕还林</sub><br>
-<sub>2024-12-5</sub><br>
-<sub>生命的意义是自己赋予的，或平淡，或燃烧，完全是每一个人自主的选择。</sub></p>
-<hr>
-<blockquote>
-<p>Σ( ° △ °|||)<br>
-前端学习当中<br>
-这只是个尝试</p>
-</blockquote>
-<p><a href="NATSUEi.html">HTML搭建区</a>【学的东西可能会用在这】</p>
-<p><a href="HATSEK.html">HATSEK</a>【属于他的理想天地】</p>
-<p><a href="Learn.html">其它类学习区</a>【课程笔记之类的】</p>
+<h1 id="学习区">学习区 </h1>
+<p><sub>2024-12-5</sub><br>
+<sub>决定去做什么就等尘埃落定再公之于众吧，不然说出来准凉。</sub></p>
 <hr>
 <ul>
-<li>作者喜欢使用其他事物特征，特别是自己热爱的事物。</li>
+<li><a href="index.html">回到主页</a></li>
+<li><strong>快速浏览</strong>
+<ul>
+<li><a href="C%E8%AF%AD%E8%A8%80-%E5%9F%BA%E6%9C%AC%E4%B9%A6%E5%86%99%E7%BB%84%E6%88%90">C语言-基本书写组成</a></li>
+<li><a href="JAVA-%E5%9F%BA%E6%9C%AC%E4%B9%A6%E5%86%99%E7%BB%84%E6%88%90">JAVA-基本书写组成</a></li>
 </ul>
-<table>
-<thead>
-<tr>
-<th style="text-align:left">例子</th>
-<th style="text-align:left">有谁的影子</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left">起名：<strong>二十岁的年华</strong></td>
-<td style="text-align:left">歌曲 <code>《粉色星球》</code></td>
-</tr>
-<tr>
-<td style="text-align:left">起名：<strong>东方古明小伍</strong></td>
-<td style="text-align:left">角色 <code>《东方project》——古明地恋</code></td>
-</tr>
-<tr>
-<td style="text-align:left">起名：<strong>HATSEK</strong></td>
-<td style="text-align:left">歌曲 <code>Miraie &amp; iMeiden - Heartseeker</code></td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
+<hr>
+<h2 id="c语言-基本书写组成">C语言-基本书写组成 </h2>
+<pre data-role="codeBlock" data-info="C" class="language-c C"><code><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span> <span class="token string">&lt;stdio.h&gt;</span></span>
+<span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span> <span class="token string">&lt;locale.h&gt;</span> <span class="token comment">// setlocale(LC_ALL, "zh_CN.UTF-8");</span></span>
 
+<span class="token keyword keyword-int">int</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+<span class="token punctuation">{</span>
+    <span class="token function">setlocale</span><span class="token punctuation">(</span>LC_ALL<span class="token punctuation">,</span> <span class="token string">"zh_CN.UTF-8"</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// 设置为中文 UTF-8 编码，确保可以处理中文</span>
+    
+    <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"Hello World!\n"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"你好，世界！\n"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+    <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"\n"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token function">getchar</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// 用于查看运行结果，避免程序一闪而过</span>
+    <span class="token keyword keyword-return">return</span> <span class="token number">0</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+</code></pre><h2 id="java-基本书写组成">JAVA-基本书写组成 </h2>
+<pre data-role="codeBlock" data-info="JAVA" class="language-java JAVA"><code><span class="token keyword keyword-package">package</span> <span class="token namespace">com<span class="token punctuation">.</span></span><span class="token class-name">TheStart</span><span class="token punctuation">;</span> <span class="token comment">// 导包</span>
+
+<span class="token keyword keyword-import">import</span> <span class="token import"><span class="token namespace">java<span class="token punctuation">.</span>util<span class="token punctuation">.</span></span><span class="token class-name">Scanner</span></span><span class="token punctuation">;</span> <span class="token comment">// 导入类</span>
+
+<span class="token keyword keyword-public">public</span> <span class="token keyword keyword-class">class</span> <span class="token class-name">HelloWorld</span> <span class="token punctuation">{</span>
+    <span class="token keyword keyword-public">public</span> <span class="token keyword keyword-static">static</span> <span class="token keyword keyword-void">void</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token class-name">String</span><span class="token punctuation">[</span><span class="token punctuation">]</span> args<span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        <span class="token class-name">Scanner</span> sc <span class="token operator">=</span> <span class="token keyword keyword-new">new</span> <span class="token class-name">Scanner</span><span class="token punctuation">(</span><span class="token class-name">System</span><span class="token punctuation">.</span>in<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// 创建对象sc</span>
+
+        <span class="token class-name">System</span><span class="token punctuation">.</span>out<span class="token punctuation">.</span><span class="token function">println</span><span class="token punctuation">(</span><span class="token string">"Hello World"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+</code></pre>
       </div>
       
       
