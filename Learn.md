@@ -1,7 +1,7 @@
 # 学习区
 
-~2024-12-7~
-~决定去做什么就等尘埃落定再公之于众吧，不然说出来准凉。~
+> ~2024-12-7~
+> ~决定去做什么就等尘埃落定再公之于众吧，不然说出来准凉。~
 
 ---
 
@@ -31,8 +31,7 @@ int main()
 }
 ```
 
-下载作者自己写的头文件
-<a href="download/myfunc/myfunc.zip" download>myfunc</a>
+**下载作者自己写的**<a href="download/myfunc/myfunc.zip" download>头文件</a>
 
 ## JAVA-基本书写组成
 
