@@ -31,7 +31,7 @@ int main()
 }
 ```
 
-**下载作者自己写的**<a href="download/myfunc/myfunc.zip" download>头文件</a>
+**下载博主自己写的**<a href="download/myfunc/myfunc.zip" download>头文件</a>
 
 ## JAVA-基本书写组成
 
