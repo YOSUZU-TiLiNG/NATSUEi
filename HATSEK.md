@@ -34,7 +34,8 @@
 
 **专辑封面：**
 
-![森羅万象社团的专辑](images/シンクロ.jpg "森羅万象社团的专辑")
+<img src="images/シンクロ.jpg" alt="シンクロ.jpg" width="400px" height="400px" title="森羅万象社团的专辑">
+<br>
 
 ~~ayo awsl~~
 
@@ -46,27 +47,27 @@
 
 > ~画师：美駒~ ~沙名希~
 
-![米斯蒂娅·萝蕾拉](images/37070146_p0.jpg "初见！")
+<img src="images/37070146_p0.jpg" alt="37070146_p0.jpg" width="400px" height="480px" title="初见！">
 <br>
 
 > ~画师：兎のあくび~
 
-![米斯蒂娅·萝蕾拉](images/94222901_p0.jpg "这张适合做成抱枕")
+<img src="images/94222901_p0.jpg" alt="94222901_p0.jpg" width="400px" height="564px" title="这张适合做成抱枕">
 <br>
 
 > ~画师：鍵掛け~
 
-![米斯蒂娅·萝蕾拉](images/69598475_p0.png "适合做头像")
+<img src="images/69598475_p0.png" alt="69598475_p0.png" width="400px" height="400px" title="适合做头像">
 <br>
 
 > ~画师：グリトー~
 
-![米斯蒂娅·萝蕾拉](images/66267905_p0.jpg "做立牌再合适不过了")
+<img src="images/66267905_p0.jpg" alt="66267905_p0.jpg" width="400px" height="400px" title="做立牌再合适不过了">
 <br>
 
 > ~画师：穰雀~
 
-![米斯蒂娅·萝蕾拉](images/102886841_p0.jpg "有点儿呆萌")
+<img src="images/102886841_p0.jpg" alt="102886841_p0.jpg" width="400px" height="400px" title="该有的元素都有哩">
 <br>
 
 ---
@@ -76,39 +77,39 @@
 **利贝罗勒（少女前线）**
 > ~画师：プロピ~
 
-![少女前线](images/65872002_p0.jpg "绷带血包神经连接好看(￣▽￣)")
+<img src="images/65872002_p0.jpg" alt="65872002_p0.jpg" width="400px" height="600px" title="绷带血包神经线(￣▽￣)">
 <br>
 
 > ~画师：零~
 
-![少女前线](images/68166284_p0.jpg "花圃正中央的点滴少女，血包维系着微弱的生命，绷带虚掩着旧日的创伤")
+<img src="images/68166284_p0.jpg" alt="68166284_p0.jpg" width="705px" height="400px" title="花圃正中央的点滴少女，血包维系着微弱的生命，绷带虚掩着旧日的创伤">
 <br>
 
 **比那名居天子（东方project）**
 > ~画师：雷晶~
 
-![东方project](images/90639016_p0.jpg "比那名居天子")
+<img src="images/90639016_p0.jpg" alt="90639016_p0.jpg" width="400px" height="400px" title="比那名居天子">
 <br>
 
 **芙兰朵露·斯卡雷特（东方project）**
 > ~画师：TOP-Exerou~
 
-![东方project](images/114981764_p0.jpg "芙兰朵露·斯卡雷特")
+<img src="images/114981764_p0.jpg" alt="114981764_p0.jpg" width="400px" height="506px" title="芙兰朵露·斯卡雷特">
 <br>
 
 > ~画师：保十歩~
 
-![东方project](images/121390303_p0.jpg "芙兰朵露·斯卡雷特")
+<img src="images/121390303_p0.jpg" alt="121390303_p0.jpg" width="400px" height="566px" title="芙兰朵露·斯卡雷特">
 <br>
 
 **古明地觉（东方project）**
 > ~画师：ちー(ﾟーﾟ)~
 
-![东方project](images/103837671_p23.jpg "小五可爱捏")
+<img src="images/103837671_p23.jpg" alt="103837671_p23.jpg" width="400px" height="564px" title="小五可爱捏">
 <br>
 
 **响（少女前线）**
 > ~画师：ITS~
 
-![少女前线](images/111952185_p0.jpg "响")
+<img src="images/111952185_p0.jpg" alt="111952185_p0.jpg" width="400px" height="529px" title="响">
 <br>
