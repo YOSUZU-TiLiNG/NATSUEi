@@ -11,9 +11,9 @@
 > 这只是个尝试
 
 - **快速跳转**
-  - [HTML搭建区](index/NATSUEi.html)【学的东西可能会用在这】
-  - [HATSEK](HATSEK.html)【属于他的理想天地】
-  - [其它类学习区](Learn.html)【课程笔记之类的】
+  - [夏圃秋耕的博客](index/NATSUEi.html)【HTML搭建区】
+  - [HATSEK](HATSEK.html)【他的理想天地】
+  - [其它类学习区](Learn.html)【课程文件笔记】
 
 ---
 
