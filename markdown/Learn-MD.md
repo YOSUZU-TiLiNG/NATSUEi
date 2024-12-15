@@ -5,11 +5,10 @@
 
 ---
 
-- [返回主页](index.html)
+- [首页](../index.html)
 - **快速浏览**
-  - [C语言](C语言-基本书写组成)
-  - [JAVA](JAVA-基本书写组成)
-
+  - [C语言](#c语言-基本书写组成)
+  - [JAVA](#java-基本书写组成)
 ---
 
 ## C语言-基本书写组成
@@ -31,7 +30,7 @@ int main()
 }
 ```
 
-**下载博主自己写的**<a href="download/myfunc/myfunc.zip" download>头文件</a>
+**下载博主自己写的**<a href="../download/myfunc/myfunc.zip" download>头文件</a>
 
 ## JAVA-基本书写组成
 
