@@ -1,68 +1,11 @@
-/*
-CSS注释
-个人使用习惯
-大型图片标准尺寸是(400px × 400px)
-长的图片尺寸是(XXXpx × 400px)
-宽的图片尺寸是(400px × XXXpx)
-中型图片标准尺寸是(200px × 200px)
-*/
 body {
-    /* 背景图设置 */
-    background-color: rgb(230, 230 ,230);
-    background-image: url(./images/Bilibili/BV13x411p788.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-    background-attachment: fixed;
-    /* 字体设置 */
-    font-family: 楷体, sans-serif;
+    text-align: center;
 }
+
 h1 {
-    font-size: 48px;
-    text-align: center;
-    opacity: 0.95;
-}
-h2 {
-    font-size: 20px;
-    text-align: center;
+    color: rgb(0, 0, 0);
 }
 
-p {
-    height: 32px;
-    font-size: 20px;
-    color:rgb(100,100,100);
-}
-
-a {
-    height: fit-content;
-    text-decoration: none;
-    color: rgb(121, 212, 121);
-}
-
-audio {
-    width: 400px;
-    height: 60px;
-    opacity: 0.4;
-}
-
-.hrcen {
-    width: 100%;
-    height: 32px;
-    color:rgb(0,0,0);
-    text-align: center;
-}
-
-.pfont {
-    font-size: 20px;
-    color:rgb(100,100,100);
-}
-
-.imgbig {
-    width: 400px;
-    height: 400px;
-}
-
-.imgmid {
-    width: 200px;
-    height: 200px;
+* {
+    color: rgb(100, 100, 100);
 }

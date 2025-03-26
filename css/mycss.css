@@ -1,0 +1,78 @@
+body {
+    /* 背景图设置 */
+    background-color: rgb(230, 230 ,230);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    /* 字体设置 */
+    font-size: 20px;
+    font-family: 楷体, sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+    opacity: 0.95;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+    color: rgb(130, 200, 250);
+}
+
+p {
+    height: 32px;
+    color: rgb(100, 100, 100);
+}
+
+a {
+    text-decoration: none;
+    height: fit-content;
+    font-weight: 700;
+    color: rgb(121, 212, 121);
+}
+
+audio {
+    width: 400px;
+    height: 60px;
+    opacity: 0.4;
+}
+
+.hrcen {
+    width: 100%;
+    color: rgb(0, 0, 0);
+}
+
+.pfont {
+    color: rgb(100, 100, 100);
+}
+
+.afont {
+    color: rgb(121, 212, 121);
+}
+
+/* 图片类选择器 */
+
+.imgbig {
+    width: 400px;
+    height: 400px;
+}
+
+.imgbig_width {
+    width: auto;
+    height: 400px;
+}
+
+.imgbig_height {
+    width: 400px;
+    height: auto;
+}
+
+.imgmid {
+    width: 200px;
+    height: 200px;
+}
